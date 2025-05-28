@@ -14,6 +14,6 @@ public class HelloworldApplication {
 
   @GetMapping("/")
   public String hello() {
-    return "Hello Hi, World !!!";
+    return "Hello, World !!!";
   }
 }
